@@ -1,0 +1,106 @@
+0	country
+1	Tokelau
+2	Kenya
+3	Grenada
+4	Sudan
+5	United Arab Emirates
+6	Saint Helena, Ascension and Tristan da Cunha
+7	Peru
+8	United States
+9	Equatorial Guinea
+10	Zambia
+11	Egypt
+12	Malaysia
+13	Mozambique
+14	Mauritania
+15	Finland
+16	Martinique
+17	Andorra
+18	Egypt
+19	Sao Tome and Principe
+20	Brazil
+21	Sao Tome and Principe
+22	Myanmar
+23	Mongolia
+24	Georgia
+25	Eritrea
+26	Saint Pierre and Miquelon
+27	Virgin Islands, British
+28	Micronesia
+29	Libya
+30	South Georgia and The South Sandwich Islands
+31	Guinea-Bissau
+32	Cyprus
+33	Puerto Rico
+34	Zimbabwe
+35	Macedonia
+36	Puerto Rico
+37	New Caledonia
+38	Viet Nam
+39	Saint Lucia
+40	Pitcairn Islands
+41	Macedonia
+42	Paraguay
+43	Afghanistan
+44	Finland
+45	Kazakhstan
+46	Hong Kong
+47	Curaçao
+48	El Salvador
+49	Congo (Brazzaville)
+50	Guadeloupe
+51	Fiji
+52	Greenland
+53	Japan
+54	Falkland Islands
+55	Albania
+56	Bouvet Island
+57	Panama
+58	Armenia
+59	Pakistan
+60	Georgia
+61	Bhutan
+62	Virgin Islands, British
+63	Turks and Caicos Islands
+64	Cook Islands
+65	Saint Kitts and Nevis
+66	French Polynesia
+67	Norway
+68	Heard Island and Mcdonald Islands
+69	Isle of Man
+70	United Kingdom
+71	Mozambique
+72	Virgin Islands, United States
+73	Guam
+74	Mozambique
+75	Bhutan
+76	Bangladesh
+77	Trinidad and Tobago
+78	New Caledonia
+79	Australia
+80	Western Sahara
+81	Wallis and Futuna
+82	Brunei
+83	Mozambique
+84	Nicaragua
+85	Albania
+86	Peru
+87	Guinea
+88	Curaçao
+89	Botswana
+90	Romania
+91	Guyana
+92	Cuba
+93	Ghana
+94	Kyrgyzstan
+95	Antigua and Barbuda
+96	Maldives
+97	Armenia
+98	Mauritius
+99	Kazakhstan
+100	Bolivia
+101	
+102	
+103	
+104	
+105	
